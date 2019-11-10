@@ -1,15 +1,20 @@
-### Date created
-Include the date you created this project and README file.
+Date created: 09/11/2019
+## Bikeshare stats
+### Requirements
+* Python 3.7
 
-### Project Title
-Replace the Project Title
+### Usage
+* clone the repository
+* run the python script: `python bikeshare.py`
 
 ### Description
-Describe what your project is about and what it does
+*
 
 ### Files used
-Include the files used
+- bikeshare.py
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+[Udacity](https://www.udacity.com)
