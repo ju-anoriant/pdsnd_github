@@ -14,5 +14,8 @@ Simple script for bike share statistics.
 - new_york_city.csv
 - washington.csv
 
+## Licence
+Unlicense - see [LICENSE.md](https://github.com/ju-anoriant/pdsnd_github/blob/documentation/UNLICENSE.md)
+
 ## Credits
 [Udacity](https://www.udacity.com)
