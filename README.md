@@ -6,7 +6,8 @@ Simple script for bike share statistics.
 
 ## Usage
 * clone the repository
-* run the script: `python bikeshare.py`
+* run the script: \
+`python bikeshare.py`
 
 ## Files used
 - bikeshare.py
