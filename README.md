@@ -1,5 +1,5 @@
 # Bikeshare stats
-Simple script for bike share statistics.
+Simple script to get insights about bike share data.
 
 ## Requirements
 * Python 3.7
