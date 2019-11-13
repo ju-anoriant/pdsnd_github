@@ -1,20 +1,18 @@
-Date created: 09/11/2019
-## Bikeshare stats
-### Requirements
+# Bikeshare stats
+Simple script for bike share statistics.
+
+## Requirements
 * Python 3.7
 
-### Usage
+## Usage
 * clone the repository
-* run the python script: `python bikeshare.py`
+* run the script: `python bikeshare.py`
 
-### Description
-*
-
-### Files used
+## Files used
 - bikeshare.py
 - chicago.csv
 - new_york_city.csv
 - washington.csv
 
-### Credits
+## Credits
 [Udacity](https://www.udacity.com)
