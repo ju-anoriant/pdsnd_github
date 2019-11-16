@@ -2,7 +2,9 @@
 Simple script to get insights about bike share data.
 
 ## Requirements
-* Python 3.7
+* Python >= 3.7
+* Numpy >= 1.17
+* Pandas >= 0.25
 
 ## Usage
 * clone the repository
